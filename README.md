@@ -1,6 +1,6 @@
 # Marketing OS
 
-Tu sistema operativo de marketing: un repositorio donde vive tu criterio como director o directora de marketing, escrito de forma que tu equipo y un agente de IA (Claude Code o Codex) puedan ejecutarlo sin consultarte.
+Tu sistema operativo de marketing: un repositorio donde vive tu criterio como director o directora de marketing, escrito de forma que tu equipo y un agente de IA (Claude Code, Codex o Antigravity) puedan ejecutarlo sin consultarte.
 
 Plantilla del curso Dirección de la Estrategia Digital · Maestría en Dirección de Marketing · CESA · Prof. David Vidal Baute.
 
@@ -10,7 +10,7 @@ Plantilla del curso Dirección de la Estrategia Digital · Maestría en Direcci�
 
 1. Crea tu copia: botón **Use this template** → **Create a new repository** → nómbrala `marketing-os-tunombre` y márcala como **Private**.
 2. Bájala a tu computador con GitHub Desktop (**Code** → **Open with GitHub Desktop** → **Clone**).
-3. Abre la carpeta en tu herramienta: pestaña **Code** de la app de Claude (**Open folder…**), o **Codex** en el selector de la app de escritorio de ChatGPT (**Add new project**).
+3. Abre la carpeta en tu herramienta: pestaña **Code** de la app de Claude (**Open folder…**), o **Codex** en el selector de la app de escritorio de ChatGPT (**Add new project**), o la app **Antigravity** de Google con tu Gmail personal (**New Project** → **Add Folder** → **Create**).
 4. Pega el prompt de `00-setup/primera-ejecucion.md`. Si el agente te responde con el mapa de tu sistema, quedó funcionando.
 5. Llena los módulos en orden. Cada archivo trae preguntas guía; puedes responderlas a mano o conversando con el agente.
 6. Guarda tus avances en GitHub Desktop: escribe un resumen, **Commit to main** y luego **Push origin**.
@@ -30,7 +30,7 @@ Plantilla del curso Dirección de la Estrategia Digital · Maestría en Direcci�
 | `diccionario.md` | Transversal | Los términos que tu equipo debe usar igual | Final · 30 nov |
 | `log-decisiones.md` | Transversal | Qué decidiste tú, qué propuso la IA y por qué | Final · 30 nov |
 
-`AGENTS.md` es el archivo que lee el agente antes de trabajar. `CLAUDE.md` solo apunta a ese mismo archivo para que Claude Code y Codex sigan las mismas reglas.
+`AGENTS.md` es el archivo que lee el agente antes de trabajar. `CLAUDE.md` solo apunta a ese mismo archivo para que Claude Code, Codex y Antigravity sigan las mismas reglas.
 
 ## Reglas del proyecto
 
