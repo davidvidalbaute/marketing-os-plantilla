@@ -10,7 +10,7 @@ Plantilla del curso Dirección de la Estrategia Digital · Maestría en Direcci�
 
 1. Crea tu copia: botón **Use this template** → **Create a new repository** → nómbrala `marketing-os-tunombre` y márcala como **Private**.
 2. Bájala a tu computador con GitHub Desktop (**Code** → **Open with GitHub Desktop** → **Clone**).
-3. Abre la carpeta en tu herramienta: pestaña **Code** de la app de Claude, o modo **Codex** de la app de ChatGPT.
+3. Abre la carpeta en tu herramienta: pestaña **Code** de la app de Claude (**Open folder…**), o **Codex** en el selector de la app de escritorio de ChatGPT (**Add new project**).
 4. Pega el prompt de `00-setup/primera-ejecucion.md`. Si el agente te responde con el mapa de tu sistema, quedó funcionando.
 5. Llena los módulos en orden. Cada archivo trae preguntas guía; puedes responderlas a mano o conversando con el agente.
 6. Guarda tus avances en GitHub Desktop: escribe un resumen, **Commit to main** y luego **Push origin**.
